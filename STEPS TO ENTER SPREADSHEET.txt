@@ -1,0 +1,14 @@
+1.creat a new spreed shet and name it
+2.go to extensions 
+3.click on apps script and name it 
+4. paste the code and save it
+5. click on deploy -> new deploy -> select type as web app (add the description and anyone acess) --> deploy
+6.we have to do authorize access --> give ur gmailacess -->click on advanced -->go to attence system(apps script name) --> deployments ID and copy the url --> done
+
+
+
+
+AKfycbzaxj2H6iSiFRBTHWBRou5VwYxbJgKzYlDLyh-3ERcGEQ9sVtGYBSzUIrydE45LnN4C
+
+
+https://script.google.com/macros/s/AKfycbzaxj2H6iSiFRBTHWBRou5VwYxbJgKzYlDLyh-3ERcGEQ9sVtGYBSzUIrydE45LnN4C/exec
