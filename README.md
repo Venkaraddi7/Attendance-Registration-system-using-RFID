@@ -1,2 +1,2 @@
 # Attendance-Registration-system-using-RFID
-DECRPTION
+implemented an attendance system based on RFID. The objective of this project is to provide a more convenient method of attendance marking compared to the traditional method of attendance (that is, paper attendance). At the end of the session, we can generate the report automatically. By using databases, the data is more organized. If the strength of the class is greater, manual attendance takes more time. It also reduces work. load on the teacher. Thus, it can be implemented in either an academic institution or an organization.
